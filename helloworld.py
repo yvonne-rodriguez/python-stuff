@@ -1,0 +1,20 @@
+noun= input("enter a noun: ")
+place= input("enter a place: ")
+verb= input("enter a verb: ")
+noun2= input("enter a noun: ")
+name=input("Enter a name: ")
+verb2=input("Enter a verb: ")
+noun3=input("Enter a noun: ")
+verb3=input("Enter a verb: ")
+noun4=input("Enter a noun: ")
+body=input("Enter a body part: ")
+month=input("Enter a month: ")
+verb4=input("Enter a verb: ")
+noun5=input("Enter a noun: ")
+pastVerb=input("Enter a verb, past tense: ")
+adj=input("Enter an adjective: ")
+print("A "+noun+" in "+place+" was arrested this morning after he "+verb+" in front of a "+noun2+". "+name+" had a history of "+verb2+",
+print("but no one-not even his "+noun3+" ever imagines he'd "+verb3+" with a "+noun4+" stuck in his "+body+".")
+print("In "+month+", a woman was charged with a similar crime. But rather than"+verb4+" with a "+noun5+", she "+pastVerb+" with a "+adj+" dog.")
+
+ 
